@@ -1,0 +1,1 @@
+A simple project that showcases how qunit-testng is used. You can take a look at this code to see how you can integrate qunit-testng with your own projects, enabling you to run QUnit tests side-by-side with TestNG in maven.
